@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1442929475 source:c:\users\gustavo\documents\01 - catedras\03 - programacion 2 - laboratorio 2\trabajos practicos resoluciones\tp4-tdalistas\listas con recursion\lista.c
+	"lista.h"
+
+1378918410 c:\users\gustavo\documents\01 - catedras\03 - programacion 2 - laboratorio 2\trabajos practicos resoluciones\tp4-tdalistas\listas con recursion\lista.h
+	<stdio.h>
+	<stdlib.h>
+
+1442929627 source:c:\users\gustavo\documents\01 - catedras\03 - programacion 2 - laboratorio 2\trabajos practicos resoluciones\tp4-tdalistas\listas con recursion\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+

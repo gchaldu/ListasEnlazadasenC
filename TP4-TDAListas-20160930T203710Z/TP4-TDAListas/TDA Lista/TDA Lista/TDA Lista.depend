@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1441633560 source:c:\users\gustavo\documents\01 - catedras\03 - programacion 2 - laboratorio 2\trabajos practicos resoluciones\tp4-tdalistas\tda lista\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
