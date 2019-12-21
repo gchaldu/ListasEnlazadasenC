@@ -5,7 +5,6 @@
 typedef struct
 {
     char nombre[20];
-    char apellido[30];
     int edad;
     struct nodo * siguiente;
 } nodo;
